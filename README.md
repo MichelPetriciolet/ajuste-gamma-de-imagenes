@@ -1,6 +1,12 @@
 # Ajuste gamma de imagenes
 contiene información para el ajuste de gamma de imágenes en UNITEC
 
+La corrección gamma es una forma especial de aumento de contraste diseñada para mejorar el contraste en áreas muy claras o muy oscuras. 
+Esto se logra modificando los valores medios, particularmente los medios-bajos, sin afectar el blanco (255) ni el negro (0). 
+Puede utilizarse para mejorar el aspecto de una imagen, o para compensar el rendimiento de diferentes dispositivos frente a una imagen (se usa y usaba en televisiones, pantallas, etc.)
+![image](https://user-images.githubusercontent.com/113747111/192913485-3ff09b59-7df4-4d2b-b905-590498433143.png)
+
+
 ![image](https://user-images.githubusercontent.com/113747111/192911268-37cdec71-1e4c-4334-877e-b8c7aa743881.png) 
 
 COMPARACION DE IMAGEN CON UN AUMENTO DE 2.5 DE GAMMA
