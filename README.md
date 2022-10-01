@@ -4,6 +4,11 @@ contiene información para el ajuste de gamma de imágenes en UNITEC
 La corrección gamma es una forma especial de aumento de contraste diseñada para mejorar el contraste en áreas muy claras o muy oscuras. 
 Esto se logra modificando los valores medios, particularmente los medios-bajos, sin afectar el blanco (255) ni el negro (0). 
 Puede utilizarse para mejorar el aspecto de una imagen, o para compensar el rendimiento de diferentes dispositivos frente a una imagen (se usa y usaba en televisiones, pantallas, etc.)
+El contraste en fotografía es el efecto que se produce al destacar un elemento sobre los demás en una misma imagen. También podemos definirlo como la diferencia entre el tono más negro y blanco en una imagen. Cuanto mayor sea esta diferencia tonal, mayor contraste tendrá la imagen.
+Una forma de lograrlo es implementando una función que actue sobre la intensidad de cada uno de los pixeles de forma puntual.
+De forma general el contraste modifica el valor de intensidad para observar la información de la imagen de una mejor forma, en este sentido corrige los datos de la imagen para mostrarnos detalles que de otra forma pasan desapercibidos.
+
+
 
 
 
