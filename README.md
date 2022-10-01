@@ -30,5 +30,6 @@ COMPARACION DE IMAGEN CON UN AUMENTO DE 1.5 DE GAMMA CON EL FIN DE VISUALIZAR LO
 
 
 ###CONCLUSION 
+Con la correccion gamma nos ayuda a muchas cosas desde imagenes con su tonalidad oscura podemos correguir eso para que pueda tener una mejor tonalidad y se pueda apreciar mucho mejor y fijarnos mas sobre los detalles que puede llegar a tener una imagen.
 
 
